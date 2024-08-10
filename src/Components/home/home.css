@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.product{
+    height:400px;
+    width: 20%;
+    border: 2px solid black;
+    margin: 30px 30px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    background: linear-gradient(to right,burlywood, rgba(0, 0, 255, 0.532));
+}
+.product img{
+    height:50%;
+    width: 100%;
+    border-radius: 20px;
+}
+.box{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+

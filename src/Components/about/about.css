@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    padding: 20px 0;
+}
+p{
+    text-align: center;
+    padding: 20px;
+}
